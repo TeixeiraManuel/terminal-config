@@ -21,3 +21,4 @@ Este repositório contém minhas configurações pessoais para ferramentas de de
 │   └── lua/        # Configurações em Lua para Neovim (ex: LazyVim, plugins)
 └── README.md
 
+![preview terminal](terminal.png)
