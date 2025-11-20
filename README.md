@@ -7,6 +7,7 @@ Este repositório contém minhas configurações pessoais para ferramentas de de
 - **Neovim (nvim)**: versão moderna do Vim com suporte a plugins e Lua.
 
 ---
+![preview terminal](terminal.png)
 
 ## Estrutura do Repositório
 
@@ -21,4 +22,3 @@ Este repositório contém minhas configurações pessoais para ferramentas de de
 │   └── lua/        # Configurações em Lua para Neovim (ex: LazyVim, plugins)
 └── README.md
 
-![preview terminal](terminal.png)
